@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif"  />
+  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif"  />
 </div>
 
 Hi ![]()My name is Vasif Gadzhiev
@@ -23,8 +23,6 @@ Hi ![]()My name is Vasif Gadzhiev
 
 Data scientist
 --------------
-
-Как специалист в области Data Science, я специализируюсь на применении передовых аналитических методов для решения сложных задач и поддержки процессов принятия решений. Моя экспертиза охватывает различные области, включая машинное обучение, статистический анализ и визуализацию данных. Моя работа включает полный цикл работы с данными, от сбора и предварительной обработки данных до построения моделей, их валидации и внедрения
 
 * ✉️  You can contact me at [vasifgadzhievgit@gmail.com](mailto:vasifgadzhievgit@gmail.com)
 
