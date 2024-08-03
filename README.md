@@ -17,7 +17,7 @@ Hi ![]()My name is Vasif Gadzhiev
 
 - [Mathematics course](https://stepik.org/cert/2324848?lang=en)
 - [Statistics course](https://stepik.org/cert/2314065)
-- [Python courses sololearn]
+- Python courses sololearn
 
 ###
 
@@ -26,7 +26,6 @@ Data scientist
 
 Как специалист в области Data Science, я специализируюсь на применении передовых аналитических методов для решения сложных задач и поддержки процессов принятия решений. Моя экспертиза охватывает различные области, включая машинное обучение, статистический анализ и визуализацию данных. Моя работа включает полный цикл работы с данными, от сбора и предварительной обработки данных до построения моделей, их валидации и внедрения
 
-* 🌍  I'm based in Russian, Moscow
 * ✉️  You can contact me at [vasifgadzhievgit@gmail.com](mailto:vasifgadzhievgit@gmail.com)
 
 ###
@@ -64,9 +63,9 @@ Data scientist
 
 ### 📈 Моя статистика:
 <div align="center">
-<a href="https://github.com/Lionl1"><img src="https://github-readme-stats.vercel.app/api?username=Kamarentsev&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kamarentsev's GitHub stats" /></a>
+<a href="https://github.com/Lionl1"><img src="https://github-readme-stats.vercel.app/api?username=lionl1&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kamarentsev's GitHub stats" /></a>
 </div>
 <div align="center">
-<a href="https://github.com/Lionl1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamarentsev&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/Lionl1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamarentsev&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Lionl1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lionl1&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Lionl1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lionl1&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
