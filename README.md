@@ -25,7 +25,16 @@ Data scientist
 --------------
 
 * ✉️  You can contact me at [vasifgadzhievgit@gmail.com](mailto:vasifgadzhievgit@gmail.com)
-
+<h3 align="left">💻 LeetCode</h3>
+<p>
+  In my professional journey, I actively engage in solving problems on LeetCode, which helps me hone my skills in algorithms and data structures. This also aids in maintaining a high level of logical thinking and analytical abilities.
+</p>
+<p>
+  On LeetCode, I have tackled problems of varying difficulty, which has allowed me to enhance my programming and algorithmic skills, as well as apply them to real-world problems. My solutions cover topics such as dynamic programming, graphs, trees, and strings.
+</p>
+<p>
+  If you’d like to check out my LeetCode achievements, you can visit my profile at <a href="https://leetcode.com/your_profile/" target="_blank">this link</a>, where you can find the problems I’ve solved and the levels of difficulty I’ve worked on.
+</p>
 ###
 
 ## Languages and Tools 
