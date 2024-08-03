@@ -4,7 +4,7 @@
   <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif"  />
 </div>
 
-Hi ![]()My name is Vasif Gadzhiev
+![]()My name is Vasif Gadzhiev
 ==========================================================================================================================================
 
 <div align="center">
