@@ -13,11 +13,25 @@
 </div>
 
 ###
-<h3 align="left">📕 Courses I have taken </h3>
-
-- [Mathematics course](https://stepik.org/cert/2324848?lang=en)
-- [Statistics course](https://stepik.org/cert/2314065)
-- Python courses sololearn
+<h3 align="left">📚 Data Science Courses</h3>
+<ul>
+  <li><strong>Mathematics Course</strong><br>
+    <a href="https://stepik.org/cert/2324848?lang=en" target="_blank">Mathematics Course on Stepik</a><br>
+    This course covers fundamental mathematical concepts used in Data Science, including linear algebra and statistics.
+  </li>
+  <li><strong>Statistics Course</strong><br>
+    <a href="https://stepik.org/cert/2314065" target="_blank">Statistics Course on Stepik</a><br>
+    This course focuses on statistical analysis methods, including descriptive statistics, hypothesis testing, and regression analysis.
+  </li>
+  <li><strong>Python Courses on SoloLearn</strong><br>
+    <a href="https://www.sololearn.com/" target="_blank">Python Courses on SoloLearn</a><br>
+    This course covers the basics of Python, which is essential for many Data Science tasks such as data manipulation and machine learning.
+  </li>
+  <li><strong>Data Science Course by Yandex Practicum</strong><br>
+    <a href="https://practicum.yandex.ru/data-scientist/" target="_blank">Data Science Course on Yandex Practicum</a><br>
+    This course offers comprehensive training in Data Science, including machine learning, data analysis, and working with big data. It includes practical assignments and projects to help apply the knowledge gained in real-world scenarios.
+  </li>
+</ul>
 
 ###
 
