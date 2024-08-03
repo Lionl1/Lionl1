@@ -13,7 +13,7 @@
 </div>
 
 ###
-<h3 align="left">📚 Data Science Courses</h3>
+<h3 align="left">📚  Courses</h3>
 <ul>
   <li><strong>Mathematics Course</strong><br>
     <a href="https://stepik.org/cert/2324848?lang=en" target="_blank">Mathematics Course on Stepik</a><br>
