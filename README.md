@@ -46,15 +46,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasifgadzhiev&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasifgadzhiev&layout=compact&theme=radical" height="160"/>
-</div>
-
----
-
 ### 📫 Let's Connect!
 - 🔭 I’m currently working on **ML**
 - 🌱 Learning **LLM fine-tuning techniques**
