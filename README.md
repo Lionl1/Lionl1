@@ -1,72 +1,64 @@
-<br clear="both">
-
 <div align="center">
   <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif"  />
 </div>
 
-![]()My name is Vasif Gadzhiev
-==========================================================================================================================================
+<h1 align="center">Hi 👋, I'm Vasif Gadzhiev</h1>
+<h3 align="center">Data Scientist passionate about transforming data into insights</h3>
 
 <div align="center">
   <a href="https://t.me/lionl1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
+  </a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="mailto:vasifgadzhievgit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+  </a>
 </div>
 
-###
-<h3 align="left">📚  Courses</h3>
-<ul>
-  <li><strong>Mathematics Course</strong><br>
-    <a href="https://stepik.org/cert/2324848?lang=en" target="_blank">Mathematics Course on Stepik</a><br>
-    This course covers fundamental mathematical concepts used in Data Science, including linear algebra and statistics.
-  </li>
-  <li><strong>Statistics Course</strong><br>
-    <a href="https://stepik.org/cert/2314065" target="_blank">Statistics Course on Stepik</a><br>
-    This course focuses on statistical analysis methods, including descriptive statistics, hypothesis testing, and regression analysis.
-  </li>
-  <li><strong>Python Courses on SoloLearn</strong><br>
-    <a href="https://www.sololearn.com/" target="_blank">Python Courses on SoloLearn</a><br>
-    This course covers the basics of Python, which is essential for many Data Science tasks such as data manipulation and machine learning.
-  </li>
-  <li><strong>Data Science Course by Yandex Practicum</strong><br>
-    <a href="https://practicum.yandex.ru/data-scientist/" target="_blank">Data Science Course on Yandex Practicum</a><br>
-    This course offers comprehensive training in Data Science, including machine learning, data analysis, and working with big data. It includes practical assignments and projects to help apply the knowledge gained in real-world scenarios.
-  </li>
-</ul>
+---
 
-###
+### 🚀 Core Competencies
+- **Machine Learning**: Predictive modeling, neural networks, hyperparameter tuning
+- **Data Analysis**: EDA, statistical inference, A/B testing
+- **Big Data Tools**: Apache Spark, Hadoop (basic)
+- **Data Visualization**: Plotly, Matplotlib, Seaborn
+- **Deployment**: Flask, Docker (basic)
 
-Data scientist
---------------
+---
 
-* ✉️  You can contact me at [vasifgadzhievgit@gmail.com](mailto:vasifgadzhievgit@gmail.com)
+### 🛠️ Tech Stack
 
-## Languages and Tools 
-<div>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Languages:
-| Python3 | SQL |
-|---------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="55" height="55"/> | <img 
+**ML/DL**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
+**Data Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### Best frameworks and main libraries for Python3:
+---
 
-| Pytorch |  Numpy | Pandas | Sklearn |
-|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
+### 📈 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasifgadzhiev&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasifgadzhiev&layout=compact&theme=radical" height="160"/>
+</div>
 
+---
 
-### My tools for Data Manipulation & Visualisation:
-
-| Conda | Jupyter | Spark |  Plotly | Matpltlib |
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" title="plotly" alt="pltly" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="plotly" alt="pltly" width="55" height="55"/> |
-
-  
-### Environments, Testing, Other:
-
-| Git | Pytest |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|
+### 📫 Let's Connect!
+- 🔭 I’m currently working on **ML**
+- 🌱 Learning **LLM fine-tuning techniques**
+- 👯 Looking to collaborate on **AI for Social Good projects**
+- 💬 Ask me about **time series forecasting**
+- 📫 Reach me: [Telegram](https://t.me/lionl1) | [Email](mailto:vasifgadzhievgit@gmail.com)
 
