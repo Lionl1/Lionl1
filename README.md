@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif"  />
+  <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Vasif Gadzhiev</h1>
-<h3 align="center">Data Scientist passionate about transforming data into insights</h3>
+<h3 align="center">LLM & Data Science Specialist | Turning Complex Data into Intelligent Systems</h3>
 
 <div align="center">
   <a href="https://t.me/lionl1" target="_blank">
@@ -19,30 +19,54 @@
 
 ---
 
-### 🚀 Core Competencies
-- **Machine Learning**: Predictive modeling, neural networks, hyperparameter tuning
-- **Data Analysis**: EDA, statistical inference, A/B testing
-- **Big Data Tools**: Apache Spark, Hadoop (basic)
-- **Data Visualization**: Plotly, Matplotlib, Seaborn
-- **Deployment**: Flask, Docker (basic)
+### 🧠 LLM & AI Expertise  
+- **LLM Development**: Fine-tuning, RAG architectures, prompt engineering  
+- **NLP Solutions**: Transformers, text generation, semantic search  
+- **Model Optimization**: Quantization, LoRA, distillation techniques  
+- **Deployment**: ONNX, Triton Inference Server, LangChain  
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Stack  
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**ML/DL**  
+**Core ML**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
 
-**Data Tools**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**LLM Ecosystem**  
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B68EE?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)  
+
+**Data Engineering**  
+![Apache_Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
+
+---
+
+### 🔥 Current Projects  
+- **Custom LLM Agents**: Building autonomous agents for domain-specific tasks  
+- **Knowledge-Augmented Models**: Implementing RAG for enterprise documentation  
+- **Efficient Inference**: Optimizing LLM deployment for edge devices  
+- **Multimodal Systems**: Integrating vision-language models  
+
+---
+
+### 🌱 Learning Frontier  
+- **LLM Alignment**: RLHF, constitutional AI  
+- **Low-Resource Adaptation**: Few-shot learning techniques  
+- **Emergent Architectures**: Mixture-of-Experts, state-space models  
+- **GenAI Security**: Adversarial robustness for LLMs  
+
+---
+
+### 💬 Let's Collaborate On  
+- Cutting-edge LLM prototypes  
+- Open-source NLP tools  
+- AI ethics initiatives  
+- Research publications  
 
 ---
 
