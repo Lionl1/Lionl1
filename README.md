@@ -2,8 +2,8 @@
   <img height="400" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRvanB3eWt6YTVvbzY5a213eXEyd3l4ZmF5aG9wd205YWI3aXNzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8jnmXB4R1b5ska6L7l/giphy-downsized-large.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Vasif Gadzhiev</h1>
-<h3 align="center">LLM & Data Science Specialist | Turning Complex Data into Intelligent Systems</h3>
+<h1 align="center">I'm Vasif Gadzhiev</h1>
+<h3 align="center">LLM & Data Science Specialist</h3>
 
 <div align="center">
   <a href="https://t.me/lionl1" target="_blank">
@@ -17,13 +17,6 @@
   </a>
 </div>
 
----
-
-### 🧠 LLM & AI Expertise  
-- **LLM Development**: Fine-tuning, RAG architectures, prompt engineering  
-- **NLP Solutions**: Transformers, text generation, semantic search  
-- **Model Optimization**: Quantization, LoRA, distillation techniques  
-- **Deployment**: ONNX, Triton Inference Server, LangChain  
 
 ---
 
@@ -45,28 +38,6 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  
 
 ---
-
-### 🔥 Current Projects  
-- **Custom LLM Agents**: Building autonomous agents for domain-specific tasks  
-- **Knowledge-Augmented Models**: Implementing RAG for enterprise documentation  
-- **Efficient Inference**: Optimizing LLM deployment for edge devices  
-- **Multimodal Systems**: Integrating vision-language models  
-
----
-
-### 🌱 Learning Frontier  
-- **LLM Alignment**: RLHF, constitutional AI  
-- **Low-Resource Adaptation**: Few-shot learning techniques  
-- **Emergent Architectures**: Mixture-of-Experts, state-space models  
-- **GenAI Security**: Adversarial robustness for LLMs  
-
----
-
-### 💬 Let's Collaborate On  
-- Cutting-edge LLM prototypes  
-- Open-source NLP tools  
-- AI ethics initiatives  
-- Research publications  
 
 ---
 
