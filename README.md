@@ -11,10 +11,6 @@
 <div align="center">
   <a href="https://t.me/lionl1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:vasifgadzhievgit@gmail.com">
     <img src="https://img.shields.io/badge/Email-vasifgadzhievgit@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
